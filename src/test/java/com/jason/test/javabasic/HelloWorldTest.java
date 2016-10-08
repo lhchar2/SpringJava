@@ -1,4 +1,4 @@
-package com.jason.test;
+package com.jason.test.javabasic;
 
 import org.junit.Test;
 
